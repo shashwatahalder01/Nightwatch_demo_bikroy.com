@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="TC-030"
+    errors="0" failures="0" hostname="" id="" package="TC-030" skipped="0"
+    tests="1" time="8.492" timestamp="">
+  
+    <testcase name="Have quick links in homepage" classname="TC-030" time="8.492" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

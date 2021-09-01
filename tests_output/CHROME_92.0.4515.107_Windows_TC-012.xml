@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="TC-012"
+    errors="0" failures="0" hostname="" id="" package="TC-012" skipped="0"
+    tests="1" time="13.24" timestamp="">
+  
+    <testcase name="Open url from Help &amp; Support" classname="TC-012" time="13.24" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="TC-007"
+    errors="0" failures="0" hostname="" id="" package="TC-007" skipped="0"
+    tests="1" time="17.27" timestamp="">
+  
+    <testcase name="Show ads by location" classname="TC-007" time="17.27" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

@@ -1,0 +1,20 @@
+{
+  "name": "nightwatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "allure-commandline": "^2.13.8",
+    "chromedriver": "^92.0.0",
+    "nightwatch": "^1.7.7"
+  },
+  "dependencies": {
+    "nightwatch-allure": "^1.2.0"
+  }
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="TC-021"
+    errors="0" failures="0" hostname="" id="" package="TC-021" skipped="0"
+    tests="1" time="32.27" timestamp="">
+  
+    <testcase name="Password Change" classname="TC-021" time="32.27" assertions="1">
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

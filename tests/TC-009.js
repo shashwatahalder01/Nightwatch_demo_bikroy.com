@@ -1,0 +1,48 @@
+module.exports = {
+    'Show All City Links':function(browser){
+        let cities = browser.page.bikroy();
+            cities
+                .maximizeWindow()
+                .navigate()
+                .pause(2 * 1000)
+                .click('@allLocation')
+                .pause(2*1000)
+                .click('@dhakaCity')
+                .click('@AllOfDhaka')
+                .assert.containsText('@allLocation',"Dhaka")
+                .pause(2*1000)
+                .click('@allLocation')
+                .click('@ctgCity')
+                .click('@allOfCtg')
+                .pause(2*1000)
+                .assert.containsText('@allLocation',"Chattogram")
+                .click('@allLocation')
+                .click('@sylhetCity')
+                .click('@allOfSylhet')
+                .pause(2*1000)
+                .assert.containsText('@allLocation',"Sylhet")
+                .click('@allLocation')
+                .click('@khulnaCity')
+                .click('@allOfKhulna')
+                .pause(2*1000)
+                .assert.containsText('@allLocation',"Khulna")
+                .click('@allLocation')
+                .click('@barishalCity')
+                .click('@allOfBarishal')
+                .pause(2*1000)
+                .assert.containsText('@allLocation',"Barishal")
+                .click('@allLocation')
+                .click('@rajshahiCity')
+                .click('@allOfRajshahi')
+                .pause(2*1000)
+                .assert.containsText('@allLocation',"Rajshahi")
+                .click('@allLocation')        
+                .click('@rangpurCity')
+                .click('@allOfRangpur')
+                .pause(2*1000)
+                .assert.containsText('@allLocation',"Rangpur")
+                .end()
+        
+        
+    }
+}
